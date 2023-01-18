@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+	<head></head>
+	<body>	
+		<h1>Not much to see here</h1>
+		<p>Return <a href="index.html">back to Google.</a></p>
+	</body>
+</html>
+<!doctype html>
+<html>
+	<head></head>
+	<body>	
+		<h1>Beijing Olympics</h1>
+		<ol>
+			<li>Norway</li>
+			<li>Germany</li>
+			<li>China</li>
+			<li>US</li>
+		</ol>
+		<p>Return <a href="index.html">back to Google.</a></p>
+	</body>
+</html>
+<!doctype html>
+<html>
+	<head></head>
+	<body>	
+		<h1>My Favorite Food</h1>
+		<ol>
+			<li>Fried Chicken</li>
+			<li>Spicy Fish</li>
+			<li>Tomato</li>
+			<li>Lamb</li>
+		</ol>
+		<p>Return <a href="index.html">back to Google.</a></p>
+	</body>
+</html>
